@@ -1,7 +1,7 @@
 public class TestConflict {
 
     public void testA() {
-        //Todo: Implement testA
+        System.out.println("testC");
     }
 
     public void testB() {
